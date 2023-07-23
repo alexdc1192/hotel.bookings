@@ -202,6 +202,8 @@ Moreover, optimizing the GDS channel could potentially lead to better ADR deals 
 
 Lastly, customers planning longer stays may be enticed by the prospect of better deals with lower ADRs, presenting an opportunity for hotels to attract this specific segment of clientele.
 
+![Dashboard 1](https://github.com/alexdc1192/hotel.bookings/assets/118775369/378fd692-4d73-4c62-9204-594a2580358d)
+
 
 ## Challenges
 
