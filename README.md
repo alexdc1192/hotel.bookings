@@ -187,11 +187,11 @@ Performed EDA and tried answering the following questions:
  Q15)  Which channel hasa  longer average waiting time?
  Q16)  Which distribution channel brings betterrevenue-generatingg deals for hotels?
  Q17)  Which significant distribution channel has the highest cancellation percentage?
- Q18) Doesa  longer waiting period or longer lead time causes the cancellation of bookings?
- Q19) Whether not getting allotted the same room type as demand is the main cause of cancellation for bookings?
- Q20) Does not alloting the  same room as demanded affect adr? 
- Q21) What is the trend of bookings within a month?
- Q22) Which types of customers mostly make bookings?
+ Q18)  Does a  longer waiting period or longer lead time causes the cancellation of bookings?
+ Q19)  Whether not getting allotted the same room type as demand is the main cause of cancellation for bookings?
+ Q20)  Does not alloting the  same room as demanded affect adr? 
+ Q21)  What is the trend of bookings within a month?
+ Q22)  Which types of customers mostly make bookings?
 
 ```
 
