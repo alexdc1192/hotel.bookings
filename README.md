@@ -32,7 +32,7 @@ It is very important to clean the dataset correctly and effectively, in order to
 Also, it is important to have a strategic vision for the study, since we need to carry out an analysis focused on the greatest possible utility for this sector.
 
 
-### Let's go...
+## Let's go...
 
 ## Dataset
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
