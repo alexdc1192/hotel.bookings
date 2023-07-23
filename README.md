@@ -5,6 +5,35 @@ We are provided with a hotel bookings dataset.
 
 In this analysis, we delve into a comprehensive hotel bookings dataset to extract valuable insights and understand the underlying trends in the hospitality industry. Our main goal is to conduct an Exploratory Data Analysis (EDA) on the provided dataset, allowing us to uncover significant patterns and interactions among various factors that influence hotel bookings. Through this exploration, we aim to draw meaningful conclusions that will enhance our understanding of the booking dynamics and provide valuable implications for the industry.
 
+             
+## Summary
+
+
+The study reveals interesting insights about the booking patterns and cancellation trends in City Hotel and Resort Hotel.
+The majority of bookings are for two persons, and City Hotel experiences a higher rate of cancellations compared to Resort Hotel.
+The customer profile predominantly consists of transient guests from Portugal who often reserve Room Type A with BB category through Travel Agencies (TA) without requiring a deposit.
+
+Notably, first-time customers are more likely to cancel their reservations, while guests who have stayed at the hotel previously tend to keep their bookings intact. The average wait time on the reservation list is around 2-3 days.
+Cancellations tend to occur more frequently for reservations made well in advance, and interestingly, the Average Daily Rate (ADR) is higher for canceled reservations, implying that customers might find more competitive rates elsewhere during that period and thus decide to cancel.
+
+Analyzing the historical data, it is evident that June 2016 saw the highest average cancellation rate, while June 2015 recorded the highest average number of reservations.
+
+Taking into account additional findings, such as the popularity of TA/TO as the preferred booking channel and the significant number of European guests, especially from Portugal, hotels can devise strategies to improve customer retention and tailor their services to accommodate the needs of couples, who are the most common type of guests.
+Moreover, optimizing the GDS channel could potentially lead to better ADR deals and increased revenue for both hotels.
+
+Lastly, customers planning longer stays may be enticed by the prospect of better deals with lower ADRs, presenting an opportunity for hotels to attract this specific segment of clientele.
+
+![Dashboard 1](https://github.com/alexdc1192/hotel.bookings/assets/118775369/378fd692-4d73-4c62-9204-594a2580358d)
+
+
+## Challenges
+
+It is very important to clean the dataset correctly and effectively, in order to obtain the most accurate and real study possible. This has been the biggest challenge for this project.
+Also, it is important to have a strategic vision for the study, since we need to carry out an analysis focused on the greatest possible utility for this sector.
+
+
+### Let's go...
+
 ## Dataset
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
 
@@ -183,29 +212,31 @@ We observe at first glance which variables are positively correlated:
 * The ADR (average rate) is related to adult and child guests, as well as the year and special requests
 * Guests are usually adults and then children
 * If there are babies, more special requests and more modifications to the reservation are made
+
+### Conclusions:
+
+The study provides several key conclusions based on the analysis of booking patterns and cancellation trends in City Hotel and Resort Hotel:
+
+1. Booking and Cancellation Patterns: The majority of bookings are made for two persons. City Hotel experiences a higher rate of cancellations compared to Resort Hotel.
+
+2. Customer Profile: The customer profile is predominantly made up of transient guests from Portugal. They often reserve Room Type A with BB category through Travel Agencies (TA) without requiring a deposit.
+
+3. First-time Customers and Cancellations: First-time customers are more likely to cancel their reservations, while repeat guests tend to keep their bookings intact.
+
+4. Wait Time: The average wait time on the reservation list is around 2-3 days.
+
+5. Cancellations and Advance Reservations: Cancellations occur more frequently for reservations made well in advance. Interestingly, canceled reservations tend to have a higher Average Daily Rate (ADR), suggesting that customers might find more competitive rates elsewhere during that period and thus decide to cancel.
+
+6. Historical Trends: June 2016 had the highest average cancellation rate, while June 2015 had the highest average number of reservations.
+
+7. Preferred Booking Channel and Guest Origin: Travel Agencies (TA) and Tour Operators (TO) are the popular booking channels, and European guests, especially from Portugal, form a significant portion of the clientele.
+
+8. Tailoring Services: Hotels can focus on improving customer retention and tailor their services to meet the needs of couples, as they are the most common type of guests.
+
+9. Optimizing GDS Channel: Optimizing the GDS channel could lead to better ADR deals and increased revenue for both hotels.
+
+10. Attracting Longer Stays: Hotels can entice customers planning longer stays with better deals featuring lower ADRs, creating an opportunity to attract this specific segment of clientele.
+
+Overall, the study provides valuable insights that hotels can utilize to enhance their strategies, attract more guests, and improve overall customer satisfaction.
   
-             
-## Summary
 
-
-The study reveals interesting insights about the booking patterns and cancellation trends in City Hotel and Resort Hotel.
-The majority of bookings are for two persons, and City Hotel experiences a higher rate of cancellations compared to Resort Hotel.
-The customer profile predominantly consists of transient guests from Portugal who often reserve Room Type A with BB category through Travel Agencies (TA) without requiring a deposit.
-
-Notably, first-time customers are more likely to cancel their reservations, while guests who have stayed at the hotel previously tend to keep their bookings intact. The average wait time on the reservation list is around 2-3 days.
-Cancellations tend to occur more frequently for reservations made well in advance, and interestingly, the Average Daily Rate (ADR) is higher for canceled reservations, implying that customers might find more competitive rates elsewhere during that period and thus decide to cancel.
-
-Analyzing the historical data, it is evident that June 2016 saw the highest average cancellation rate, while June 2015 recorded the highest average number of reservations.
-
-Taking into account additional findings, such as the popularity of TA/TO as the preferred booking channel and the significant number of European guests, especially from Portugal, hotels can devise strategies to improve customer retention and tailor their services to accommodate the needs of couples, who are the most common type of guests.
-Moreover, optimizing the GDS channel could potentially lead to better ADR deals and increased revenue for both hotels.
-
-Lastly, customers planning longer stays may be enticed by the prospect of better deals with lower ADRs, presenting an opportunity for hotels to attract this specific segment of clientele.
-
-![Dashboard 1](https://github.com/alexdc1192/hotel.bookings/assets/118775369/378fd692-4d73-4c62-9204-594a2580358d)
-
-
-## Challenges
-
-It is very important to clean the dataset correctly and effectively, in order to obtain the most accurate and real study possible. This has been the biggest challenge for this project.
-Also, it is important to have a strategic vision for the study, since we need to carry out an analysis focused on the greatest possible utility for this sector.
