@@ -7,11 +7,11 @@ In this analysis, we delve into a comprehensive hotel bookings dataset to extrac
 
 ## Key Insights:
 
-- Booking Patterns: Majority of bookings for two persons. City hotels have higher cancellation rates, especially for advanced bookings with higher ADR.
+- **Booking Patterns**: Majority of bookings for two persons. City hotels have higher cancellation rates, especially for advanced bookings with higher ADR.
 
-- Customer Behavior: Mainly transient guests from Portugal. First-time customers cancel more, while repeat guests show higher booking retention. Average wait time is 2-3 days.
+- **Customer Behavior**: Mainly transient guests from Portugal. First-time customers cancel more, while repeat guests show higher booking retention. Average wait time is 2-3 days.
 
-- Seasonal Trends and Target Segments: June 2016 had highest cancellation rate, June 2015 had most reservations. Couples are primary guests, with significant European presence, especially from Portugal.
+- **Seasonal Trends and Target Segments**: June 2016 had highest cancellation rate, June 2015 had most reservations. Couples are primary guests, with significant European presence, especially from Portugal.
 
 ## Action Points:
 
