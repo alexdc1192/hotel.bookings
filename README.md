@@ -5,8 +5,21 @@ We are provided with a hotel bookings dataset.
 
 In this analysis, we delve into a comprehensive hotel bookings dataset to extract valuable insights and understand the underlying trends in the hospitality industry. Our main goal is to conduct an Exploratory Data Analysis (EDA) on the provided dataset, allowing us to uncover significant patterns and interactions among various factors that influence hotel bookings. Through this exploration, we aim to draw meaningful conclusions that will enhance our understanding of the booking dynamics and provide valuable implications for the industry.
 
+## Key Insights:
+
+- Booking Patterns: Majority of bookings for two persons. City hotels have higher cancellation rates, especially for advanced bookings with higher ADR.
+
+- Customer Behavior: Mainly transient guests from Portugal. First-time customers cancel more, while repeat guests show higher booking retention. Average wait time is 2-3 days.
+
+- Seasonal Trends and Target Segments: June 2016 had highest cancellation rate, June 2015 had most reservations. Couples are primary guests, with significant European presence, especially from Portugal.
+
+## Action Points:
+
+- Improve customer retention.
+- Optimize booking channels.
+- Attract longer-stay guests with lower ADRs.
              
-## Summary
+## Conclusions extracted
 
 
 The study reveals interesting insights about the booking patterns and cancellation trends in City Hotel and Resort Hotel.
